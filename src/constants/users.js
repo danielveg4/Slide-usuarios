@@ -1,5 +1,3 @@
-import { v4 } from 'uuid';
-
 const USERS = [
 	{
 		userId: 'b0b27b53-7c35-4c18-82fc-70190ca8ab67',

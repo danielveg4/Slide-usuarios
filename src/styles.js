@@ -1,14 +1,12 @@
 import styled from 'styled-components';
 
 const StyledBox = styled.div`
-  width: 200px;
-  height: 200px;
-  background-color: aliceblue;  
+  width: 400px;
 `;
 
 const StyledBoxImage = styled.img`
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
 `;
 
 const StyledBoxName = styled.p`
@@ -18,6 +16,7 @@ const StyledBoxName = styled.p`
 
 const StyledBoxUsername = styled.p`
   font-size: 1rem;
+
 `;
 
 const StyledBoxEmail = styled.p`
