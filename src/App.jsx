@@ -65,4 +65,6 @@ const handleSelectChange = (setUsersPerPage, event, setCurrentPage) => {
 	setCurrentPage(1);
 };
 
+// quedaría pendiente meterla en un custom hook
+
 export default App;
